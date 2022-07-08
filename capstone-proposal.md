@@ -10,7 +10,7 @@
 ### What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
   * React
   * TypeScript
-  * CSS in JS (Custom)
+  * CSS in JS (Custom) | SASS
   * Firebase / MongoDB / Prisma for DB 
   * Redux / THUNK
   * HTML
