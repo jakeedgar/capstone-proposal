@@ -7,3 +7,4 @@
   * 11:00 AM | Research TypeScript usage for react component building. 
   * 11:30 AM | Reading about the five primary software design patterns. 
   * 12:00 PM | Lunch
+  * 1:00 PM | Researching implementation of Redux with TypeScript
