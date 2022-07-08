@@ -11,11 +11,16 @@
   * React
   * TypeScript
   * CSS in JS (Custom)
-  * Firebase or MongoDB
+  * Firebase / MongoDB / Prisma for DB 
+  * Redux / THUNK
   * HTML
   * Express / node 
+  * Python (For the algorithm)
 ### If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific. 
-  * 
+  * A more complex Algorithm
+  * The ability to download / save poems to an individual user account. 
+  * A full fleshed out JSS component library hosted by NPM. 
 ### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
-  * 
+  * A custom api / algorithm that sorts the words will likely have to be implemented. That or an SDK that utilizes the WORDS API that is already out there. 
 ### Is there anything else you'd like your instructor to know? 
+  * Not at this time. 

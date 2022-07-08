@@ -4,3 +4,4 @@
     * Begin researching custom CSS / CSS in JS libraries
   * 9:00 AM | Research SCSS and other CSS implementations. 
   * 10:00 AM | Continue to research CSS implementations. 
+  * 11:00 AM | Research TypeScript usage for react component building. 
