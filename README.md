@@ -32,3 +32,4 @@
 - 1:00 PM | Research grid and flex box layouts.
 - 2:00 PM | Research Navbar methodology and styles.
 - 3:00 PM | Research publishing CSS library to NPM.
+- 4:00 PM | Continue work on navbar and refining other layout elements.
