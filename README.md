@@ -19,3 +19,6 @@
 - 8:00 AM | Rename Bloom to Wither because apparently there is already an AI called bloom.
 - 8:15 AM | Return to my research on Sass and how to build out a nice custom CSS library
 - 9:15 AM | Continue research on Sass, like reusable sass mixin's and utilities.
+- 10:15 AM | Create basic card component with Sass for foxingcss.
+- 11: 15 AM | Create basic flex-grid layout with sass for foxingcss.
+-
