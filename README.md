@@ -30,3 +30,4 @@
 <br><br>
 
 - 1:00 PM | Research grid and flex box layouts.
+- 2:00 PM | Research Navbar methodology and styles.
