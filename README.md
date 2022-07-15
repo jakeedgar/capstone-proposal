@@ -18,4 +18,4 @@
 
 - 8:00 AM | Rename Bloom to Wither because apparently there is already an AI called bloom.
 - 8:15 AM | Return to my research on Sass and how to build out a nice custom CSS library
--
+- 9:15 AM | Continue research on Sass, like reusable sass mixin's and utilities.
