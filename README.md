@@ -23,4 +23,10 @@
 - 11: 15 AM | Create basic flex-grid layout with sass for foxingcss.
 - 12:00 PM | Lunch
 
+<br><br>
+
 <img src='./foxingcss-screenshot.png' alt="screenshot of wip" width="600px">
+
+<br><br>
+
+- 1:00 PM | Research grid and flex box layouts.
