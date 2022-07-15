@@ -22,3 +22,5 @@
 - 10:15 AM | Create basic card component with Sass for foxingcss.
 - 11: 15 AM | Create basic flex-grid layout with sass for foxingcss.
 - 12:00 PM | Lunch
+
+<img src='./foxingcss-screenshot.png' alt="screenshot of wip" width="600px">
