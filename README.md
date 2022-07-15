@@ -3,7 +3,7 @@
 ### WITHER . AI RESEARCH - 08/07/20222
 
 - 8:15 AM | Project research repo build out and push
-  - Begin researching custom CSS / CSS in JS libraries
+- Begin researching custom CSS / CSS in JS libraries
 - 9:00 AM | Research SCSS and other CSS implementations.
 - 10:00 AM | Continue to research CSS implementations.
 - 11:00 AM | Research TypeScript usage for react component building.
@@ -25,7 +25,7 @@
 
 <br><br>
 
-<img src='./foxingcss-screenshot.png' alt="screenshot of wip" width="600px">
+  <img src='./foxingcss-screenshot.png' alt="screenshot of wip" width="600px">
 
 <br><br>
 
@@ -33,3 +33,4 @@
 - 2:00 PM | Research Navbar methodology and styles.
 - 3:00 PM | Research publishing CSS library to NPM.
 - 4:00 PM | Continue work on navbar and refining other layout elements.
+- 4:45 PM | I finished my utility container for foxing css. 
